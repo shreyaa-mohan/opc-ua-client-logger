@@ -33,11 +33,11 @@ pip install asyncua
 - Verify tags using UAExpert (at least 10 dummy tags such as Constant_Val, Counter_Val, Random_Val, etc.).
 
 #### 4. Run the Client
-python client.py 
-The client will: 
-Connect to the server 
-Read 10 tags every minute 
-Save logs into hourly files (e.g., OPC_Log_2025-09-01_13.csv) 
+python client.py  
+The client will:  
+Connect to the server   
+Read 10 tags every minute   
+Save logs into hourly files (e.g., OPC_Log_2025-09-01_13.csv)   
 
 #### 🔮 Future Enhancements
 
